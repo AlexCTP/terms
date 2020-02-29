@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info About Credit Card Generator</title>
+</head>
+<body>
+    <h1>FAQ</h1>
+    <h2>Is the APP fake?</h2>
+    <p>
+        This app isn't tottaly fake, you can generate a credit card but it won't work there will be no money
+        in it.
+        <h2>So why use it?</h2>
+        The main reason you can still give use to the app is to use it on those websites were you need to 
+        enter a credit card, but doesn't actually starts spending money, like websites that give a 1 month free
+        trial. This way every month you just have to generate a new credit card and email and you can keep using the app for free.
+        <h2>Can I use it with Paypal</h2>
+        You can, but it won't be useful at all, because it's not even a real credit card, when you would try
+        to put money in the card you would just get an error.
+        <h2>Does this work with Spotify, Netflix etc.</h2>
+        Yes, the fake credit cards work with thoose apps you just have to generate a new credit card before
+        the end of the free trial
+    </p>
+</body>
+</html>
